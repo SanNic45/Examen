@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">examen</string>
+    <string name="training_level_placeholder">Training Level: %s</string>
+    <string name="digimon_name_placeholder">Nombre: %s</string>
+
+</resources>
